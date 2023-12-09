@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30c942fe-fcc9-4d8c-aac3-10d7de81d7c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedListTest.java" afterDir="false" />
+    <list default="true" id="30c942fe-fcc9-4d8c-aac3-10d7de81d7c1" name="Changes" comment="git commit -m &quot;Update&quot;">
+      <change afterPath="$PROJECT_DIR$/src/StackArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListTest">
+  <component name="RunManager" selected="Application.StackArrayList">
     <configuration name="ArrayListSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListSum" />
       <module name="Lists" />
@@ -44,8 +43,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+    <configuration name="StackArrayList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="StackArrayList" />
       <module name="Lists" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,11 +52,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayListSum" />
-      <item itemvalue="Application.LinkedListTest" />
+      <item itemvalue="Application.StackArrayList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.StackArrayList" />
         <item itemvalue="Application.ArrayListSum" />
       </list>
     </recent_temporary>
@@ -71,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1700990989712</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;Update&quot;">
+      <created>1701599960005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701599960005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;Update&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Update&quot;" />
   </component>
 </project>
