@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30c942fe-fcc9-4d8c-aac3-10d7de81d7c1" name="Changes" comment="git commit -m &quot;Update&quot;">
-      <change afterPath="$PROJECT_DIR$/src/StackArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StackArrayList">
+  <component name="RunManager" selected="Application.Stack">
     <configuration name="ArrayListSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListSum" />
       <module name="Lists" />
@@ -43,8 +43,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackArrayList" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="StackArrayList" />
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Stack" />
       <module name="Lists" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,11 +52,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayListSum" />
-      <item itemvalue="Application.StackArrayList" />
+      <item itemvalue="Application.Stack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackArrayList" />
+        <item itemvalue="Application.Stack" />
         <item itemvalue="Application.ArrayListSum" />
       </list>
     </recent_temporary>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701599960005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git commit -m &quot;Update&quot;">
+      <created>1702155537793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702155537793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
